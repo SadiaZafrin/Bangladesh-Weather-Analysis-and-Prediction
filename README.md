@@ -49,7 +49,7 @@ These analyses provided a comprehensive understanding of each model's performanc
     ![image_alt](https://github.com/user-attachments/assets/af740fc6-2869-42c2-91e3-a53f0e82590f)
 
   ### Average Rainfall by Year
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/f68b7a835e6b03ee86f504ac4c7f24284bba2684/Avarage%20rainfall%20monthly.jpeg)
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/f68b7a835e6b03ee86f504ac4c7f24284bba2684/Avarage%20rainfall%20monthly.jpeg)
   ### Histograms of Dataset Columns (
     ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/histogram1.jpeg)
     ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/histogram%202.jpeg)
