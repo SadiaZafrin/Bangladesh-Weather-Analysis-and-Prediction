@@ -44,17 +44,15 @@ These analyses provided a comprehensive understanding of each model's performanc
 
 ## Data Visualizations
   ### Visualize rainfall distribution
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/rainfall%20distribution.jpeg
-)
+    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/rainfall%20distribution.jpeg)
   ### Average Rainfall by Month
-    ![image_alt](![image](https://github.com/user-attachments/assets/af740fc6-2869-42c2-91e3-a53f0e82590f)
+    ![image_alt](https://github.com/user-attachments/assets/af740fc6-2869-42c2-91e3-a53f0e82590f)
 
   ### Average Rainfall by Year
     ![image_alt]()
   ### Histograms of Dataset Columns (
     ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/histogram1.jpeg)
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/histogram%202.jpeg
-)
+    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/histogram%202.jpeg)
   ### Correlation Between The Features
     ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/correlation.jpeg
 )
