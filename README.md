@@ -44,45 +44,44 @@ These analyses provided a comprehensive understanding of each model's performanc
 
 ## Data Visualizations
   ### Visualize rainfall distribution
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/rainfall%20distribution.jpeg)
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/rainfall%20distribution.jpeg)
   ### Average Rainfall by Month
-    ![image_alt](https://github.com/user-attachments/assets/af740fc6-2869-42c2-91e3-a53f0e82590f)
-
-  ### Average Rainfall by Year
 ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/f68b7a835e6b03ee86f504ac4c7f24284bba2684/Avarage%20rainfall%20monthly.jpeg)
-  ### Histograms of Dataset Columns (
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/histogram1.jpeg)
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/histogram%202.jpeg)
+
+  ### Average Rainfall by Yearly
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Avarage%20rainfall%20yearly.jpeg
+)
+  ### Histograms of Dataset Columns
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/histogram1.jpeg)
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/histogram%202.jpeg)
   ### Correlation Between The Features
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/correlation.jpeg
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/correlation.jpeg
 )
 ## confusion matrix of different algorithms
 
   ### Random Forest Algorithm
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Random.jpeg
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Random.jpeg
 )
   ### Decision Tree Algorithm
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Decission%20treee%20classifier.jpeg
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Decission%20treee%20classifier.jpeg
 )
   ### Logistic Regression
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Logistic%20regression.jpeg
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Logistic%20regression.jpeg
 )
   ### Support Vector Machine (SVM)
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/SVM.jpeg
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/SVM.jpeg
 )
   ### Logistic Regression with Hyperparameter Tuning
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Tuned%20logistic%20regression.jpeg
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Tuned%20logistic%20regression.jpeg
 )
-  ### Random Forest Algorithm Tuning
-    ![image_alt]()
   ### Decision Tree Algorithm Tunung
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Tuned%20Decision%20tree.jpeg
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Tuned%20Decision%20tree.jpeg
 )
   ### Support Vector Machine (SVM) Tuning
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Tuned%20SVM.jpeg
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/Tuned%20SVM.jpeg
 )
   ### Model Comparison Based on F1 Score
-    ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/ModelComparison.jpeg
+![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/ModelComparison.jpeg
 )
 ## Conclusion
 This project demonstrates a comprehensive approach to rainfall prediction using weather data, leveraging data analysis, feature engineering, and machine learning to classify rainfall levels. Through the application of various classification algorithms—Logistic Regression, Decision Trees, Random Forests, and SVM—the project provides insights into model performance and identifies the most accurate approach for predicting rainfall as a binary outcome. The results indicate that ensemble methods like Random Forests, combined with careful data preprocessing and feature scaling, can achieve high accuracy and robustness in weather-based prediction tasks. Visualizations and statistical summaries further enhance the interpretability of the data, making the model insights valuable for real-world decision-making. In conclusion, this project lays a solid foundation for more advanced predictive modeling in weather forecasting. Future enhancements, such as incorporating real-time data and spatial features, could broaden the project's impact, making it a useful tool for stakeholders in agriculture, water management, and environmental planning.
