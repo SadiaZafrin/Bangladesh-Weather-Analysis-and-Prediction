@@ -48,7 +48,7 @@ These analyses provided a comprehensive understanding of each model's performanc
 )
   ### Average Rainfall by Month
     ![image_alt](https://github.com/user-attachments/assets/8fa5df1e-a81e-4d29-85b8-fb26d016b5ad)
-)
+
   ### Average Rainfall by Year
     ![image_alt]()
   ### Histograms of Dataset Columns (
