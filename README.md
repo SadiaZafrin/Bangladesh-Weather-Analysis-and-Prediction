@@ -47,7 +47,7 @@ These analyses provided a comprehensive understanding of each model's performanc
     ![image_alt](https://github.com/SadiaZafrin/Bangladesh-Weather-Analysis-and-Prediction/blob/main/Visualization/rainfall%20distribution.jpeg
 )
   ### Average Rainfall by Month
-    ![image_alt](https://github.com/user-attachments/assets/8fa5df1e-a81e-4d29-85b8-fb26d016b5ad)
+    ![image_alt](![image](https://github.com/user-attachments/assets/af740fc6-2869-42c2-91e3-a53f0e82590f)
 
   ### Average Rainfall by Year
     ![image_alt]()
